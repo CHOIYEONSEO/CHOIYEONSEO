@@ -1,3 +1,5 @@
+잔디 심기를 위해 새로운 레포지토리로 복사했다! -> CHOIYEONSEO.github.io로
+
 ## 🦥 `Minimal Mistakes theme customized by choiiis`
 
 📎 **블로그 바로 가기**
