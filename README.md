@@ -1,4 +1,4 @@
-잔디 심기를 위해 새로운 레포지토리로 복사했다! -> CHOIYEONSEO.github.io로
+잔디 심기를 위해 새로운 레포지토리로 복사했다! -> CHOIYEONSEO.github.io로 <br><br><br>
 
 ## 🦥 `Minimal Mistakes theme customized by choiiis`
 
